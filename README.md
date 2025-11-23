@@ -1,2 +1,2 @@
-# CausalInference
-Notes for Causal Inference
+# 因果推断 Causal Inference 
+
